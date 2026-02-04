@@ -1,8 +1,7 @@
 ## Hi there 👋
 I'm Hanlin (Tony), a 2nd year Electrical and Electronic Engineering student in the UK.
 
-I'm interested in real-time embedded systems, control engineering, and hardware-software integration. 
-
+I'm interested in real-time embedded systems, control engineering, and hardware-software integration.  
 To build upon my skills, I enjoy building practical engineering projects that combine hardware and software.
 
 ## Skills
