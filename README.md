@@ -13,7 +13,7 @@ To build upon my skills, I enjoy building practical engineering projects that co
 - Circuit design (Kicad)
 - CAD Modelling (Fusion 360)
 
-## Fun Fact:
+## Fun Facts:
 - I am profficient in two languages! Mandarin and English.
 - Hot beverages are my favourite! Tea, coffee, Matcha and all sorts.
 - My favourite hobby is going to the gym.
